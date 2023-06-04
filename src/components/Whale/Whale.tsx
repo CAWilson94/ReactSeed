@@ -1,8 +1,6 @@
 import React from 'react'
 
-type Props = {}
-
-export default function Whale({}: Props) {
+export default function Whale() {
   return (
     <div>
       <h2>Whale</h2>

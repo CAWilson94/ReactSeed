@@ -1,8 +1,6 @@
 import React from 'react'
 
-type Props = {}
-
-export default function Narwhal({}: Props) {
+export default function Narwhal() {
   return (
     <div>
       <h2>Narwhal</h2>
