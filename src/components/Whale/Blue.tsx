@@ -1,12 +1,9 @@
 import React from "react";
 
-export default function Whale() {
-
+export const Blue = () => {
   return (
     <div>
-      <h2>Whale</h2>
+      <h3>Blue</h3>
     </div>
   );
-}
-
-
+};
