@@ -9,3 +9,7 @@ Unlike functional components, custom hooks return a normal, non-jsx data.
 Unlike normal functions, custom hooks can use other hooks such as useState, useRef… and other custom hooks.
 You can see that some libraries also provide hooks such as useForm (React Hook Form), useMediaQuery (MUI), useQuery (React Query).
  */
+
+export const exampleHook = () => { 
+    
+}
