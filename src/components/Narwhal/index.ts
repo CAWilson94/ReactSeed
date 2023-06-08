@@ -1,1 +1,1 @@
-export * from './Narwhal';
+export * from './Home';
